@@ -1,6 +1,10 @@
-# sun-o-meter
+# Sun-o-meter
 This is a UV meter project that I made to go beside my front door to encourage skin protection.
 It runs off of the OpenWeatherMap API.
+
+Pictures and video
+==================
+Available here: https://photos.app.goo.gl/e6WhFV72WeGessaC7
 
 Time Estimate
 =============
