@@ -8,10 +8,10 @@ This is not too hard. A day or a weekend depending on your skill.
 
 Requirements
 ============
-Arduino Pico W
-Pimoroni Pico Scroll Pack
-Micropython for this device (https://shop.pimoroni.com/products/pico-scroll-pack?variant=32369496653907)
-USB power for your Pico of your choosing
++ Arduino Pico W
++ Pimoroni Pico Scroll Pack
++ Micropython for this device (https://shop.pimoroni.com/products/pico-scroll-pack?variant=32369496653907)
++ USB power for your Pico of your choosing
 
 Optional
 ========
